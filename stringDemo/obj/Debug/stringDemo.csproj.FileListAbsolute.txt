@@ -1,0 +1,6 @@
+F:\C#\stringDemo\stringDemo\bin\Debug\stringDemo.exe.config
+F:\C#\stringDemo\stringDemo\bin\Debug\stringDemo.exe
+F:\C#\stringDemo\stringDemo\bin\Debug\stringDemo.pdb
+F:\C#\stringDemo\stringDemo\obj\Debug\stringDemo.csprojAssemblyReference.cache
+F:\C#\stringDemo\stringDemo\obj\Debug\stringDemo.exe
+F:\C#\stringDemo\stringDemo\obj\Debug\stringDemo.pdb
